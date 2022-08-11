@@ -1,5 +1,4 @@
-// model
-
+// Model
 class Negociacao {
   constructor(_data, _quantidade, _valor) {
 
